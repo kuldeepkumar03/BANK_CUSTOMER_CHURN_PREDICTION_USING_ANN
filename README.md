@@ -20,13 +20,13 @@ Artificial Neural Networks, inspired by the structure of biological neural netwo
 * Artificial Neural Network Model Development: An ANN model will be designed and implemented using suitable libraries or frameworks such as TensorFlow or PyTorch. The architecture of the ANN will consist of an input layer, one or more hidden layers, and an output layer. The model will be trained using the training dataset.
 
 
-*Model Training and Optimization: The ANN model will undergo an iterative process of training and optimization to minimize prediction errors. Techniques like backpropagation, gradient descent, and regularization may be employed to enhance the model's performance.
+* Model Training and Optimization: The ANN model will undergo an iterative process of training and optimization to minimize prediction errors. Techniques like backpropagation, gradient descent, and regularization may be employed to enhance the model's performance.
 
 
-*Model Evaluation: The trained ANN model will be evaluated using the testing dataset to assess its performance in predicting customer churn. Evaluation metrics such as accuracy, precision, recall, and F1-score will be used to measure the model's effectiveness.
+* Model Evaluation: The trained ANN model will be evaluated using the testing dataset to assess its performance in predicting customer churn. Evaluation metrics such as accuracy, precision, recall, and F1-score will be used to measure the model's effectiveness.
 
 
-*Prediction and Recommendations: Once the ANN model is deemed satisfactory, it will be used to predict customer churn on new, unseen data. Banks can leverage these predictions to identify customers at risk of churn and take proactive actions such as offering tailored retention incentives, personalized financial products, or improved customer service to retain them.
+* Prediction and Recommendations: Once the ANN model is deemed satisfactory, it will be used to predict customer churn on new, unseen data. Banks can leverage these predictions to identify customers at risk of churn and take proactive actions such as offering tailored retention incentives, personalized financial products, or improved customer service to retain them.
 
 
 The "Bank Customer Churn Prediction using Artificial Neural Networks" project aims to provide banks with a powerful tool to anticipate customer churn, enabling them to implement effective retention strategies and enhance customer loyalty. By utilizing ANN technology, banks can leverage their data resources to improve customer satisfaction, optimize marketing efforts, and ultimately strengthen their competitive position in the market.
